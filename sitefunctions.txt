@@ -1,0 +1,62 @@
+MENUS WITH DROP DOWNS
+About
+	Organization (FOLLOW THE REBOOT.ORG About-Approach section for these items)
+		3D Restorative Ocean Farming
+		Advocacy
+		Collaboration
+		Financial
+		Education / Mentoring / Training
+	Mission / Value / Operating Principles
+	Team
+		Management
+		Fellows
+		Advisory Board
+	Press
+
+What We Do
+	Case Studies - Projects
+	3D Restorative Ocean Farm
+
+Blog
+
+Community
+Partners
+	Log in - Sign up
+	Featured
+Yale University Sustainable Food Program
+UCONN
+Fishackathon 
+COOP
+Mombasa Team 	
+
+	Fishers
+	Log in - Sign up
+Featured
+Triton
+Poseidon 
+
+Supporters
+	Log in - Sign up
+		Ambassadors (These are donors)
+		Volunteers 
+
+
+LOOK AND FEEL:
+One page
+Responsive and Adaptive
+Navigation bar starts at the bottom of top page and then moves to the top (“Donate” button should persist and stay to the right)
+
+PERSISTENT FUNCTIONALITY:
+Partners
+Press Logos (Make sure it’s separate from Partners)
+Donation Button
+
+NOTES:
+Primary objective is fund raising
+How do we train as many ocean farmers as possible in the first year
+
+Speaker Booking 
+Sign up to become an ocean farmer 
+Sign up to join our Ocean Community 
+“Donate” Button - Support GreenWave
+What is 3-D Restorative Ocean Farming?
